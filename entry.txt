@@ -1,0 +1,3 @@
+cursor blinks at three
+one log line whispers not found
+and the bug was me
